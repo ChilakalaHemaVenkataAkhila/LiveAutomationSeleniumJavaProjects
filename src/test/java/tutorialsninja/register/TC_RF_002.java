@@ -19,7 +19,11 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+// verify confirming account registration 
+//verify email body n subject n all
+//verify if they provided any link to login page
+//user should navigate to login page
+//imap process n app passwords generated for this in gmail
 public class TC_RF_002 {
 	@Test
 public void verifyConfirmationEmail() {
