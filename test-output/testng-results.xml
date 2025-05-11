@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-11T11:24:13 IST" name="Default suite" finished-at="2025-05-11T11:24:18 IST" duration-ms="5117">
+  <suite started-at="2025-05-11T11:43:38 IST" name="Default suite" finished-at="2025-05-11T11:43:43 IST" duration-ms="5230">
     <groups>
     </groups>
-    <test started-at="2025-05-11T11:24:13 IST" name="Default test" finished-at="2025-05-11T11:24:18 IST" duration-ms="5117">
-      <class name="tutorialsninja.register.TC_RF_007">
-        <test-method signature="differentWaysofRegisterNavigatingPage()[pri:0, instance:tutorialsninja.register.TC_RF_007@1ed4ae0f]" started-at="2025-05-11T11:24:13 IST" name="differentWaysofRegisterNavigatingPage" finished-at="2025-05-11T11:24:18 IST" duration-ms="5058" status="PASS">
+    <test started-at="2025-05-11T11:43:38 IST" name="Default test" finished-at="2025-05-11T11:43:43 IST" duration-ms="5230">
+      <class name="tutorialsninja.register.TC_RF_008">
+        <test-method signature="differentPasswordsentering()[pri:0, instance:tutorialsninja.register.TC_RF_008@1ed4ae0f]" started-at="2025-05-11T11:43:38 IST" name="differentPasswordsentering" finished-at="2025-05-11T11:43:43 IST" duration-ms="5173" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- differentWaysofRegisterNavigatingPage -->
-      </class> <!-- tutorialsninja.register.TC_RF_007 -->
+        </test-method> <!-- differentPasswordsentering -->
+      </class> <!-- tutorialsninja.register.TC_RF_008 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
