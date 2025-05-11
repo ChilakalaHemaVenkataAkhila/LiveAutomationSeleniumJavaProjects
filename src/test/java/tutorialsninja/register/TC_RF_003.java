@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+//VERIFY ACCOUNT registration by providing all details
 public class TC_RF_003 {
 
 	@Test
