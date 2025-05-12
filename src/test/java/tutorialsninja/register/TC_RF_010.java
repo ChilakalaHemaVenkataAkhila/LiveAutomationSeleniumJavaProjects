@@ -26,6 +26,8 @@ public class TC_RF_010 {
 	// verify registering an account by providing invalid email to account details
 	// like email
 	// ashot dependency from mvn repo
+	
+	//pixel by pixel checking takes place like cursor tooo in pics
 	@Test
 	public void verifyRegisterAccountWithAllFields1() throws InterruptedException, IOException {
 		WebDriver driver = new ChromeDriver();
